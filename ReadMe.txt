@@ -1,0 +1,1 @@
+https://sparkbyexamples.com/pandas/rename-columns-with-list-in-pandas-dataframe/
